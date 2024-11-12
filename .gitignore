@@ -1,0 +1,27 @@
+# Unity generated files
+.vs/
+.idea/
+.user/
+.userprefs
+Temp/
+Obj/
+Library/
+Logs/
+MemoryCaptures/
+
+# Build results
+Build/
+Builds/
+
+# User-specific files
+.DS_Store
+Thumbs.db
+
+# Uncomment if you have a server-specific folder
+#ServerData/
+
+# Windows installer files
+*.cab
+*.msi
+*.msm
+*.msp

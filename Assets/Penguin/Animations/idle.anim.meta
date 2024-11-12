@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 422efa12b28a4a44db80065d0a16e862
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100397
+  packageName: Low Poly Imperial Penguin
+  packageVersion: 1.0
+  assetPath: Assets/Penguin/Animations/idle.anim
+  uploadId: 205921

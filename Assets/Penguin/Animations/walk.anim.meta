@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 04ff6e344b0800245a6b5bf656d4c14e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100397
+  packageName: Low Poly Imperial Penguin
+  packageVersion: 1.0
+  assetPath: Assets/Penguin/Animations/walk.anim
+  uploadId: 205921
