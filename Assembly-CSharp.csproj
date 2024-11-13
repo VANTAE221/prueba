@@ -73,6 +73,7 @@
     <Compile Include="Assets\VRTemplateAssets\Scripts\XRPokeFollowAffordanceFill.cs" />
     <Compile Include="Assets\living birds\scripts\lb_CrowProximity.cs" />
     <Compile Include="Assets\VRTemplateAssets\Scripts\CalloutGazeController.cs" />
+    <Compile Include="Assets\kag\aves\comportamientoCamara.cs" />
     <Compile Include="Assets\living birds\scripts\lb_BirdController.cs" />
     <Compile Include="Assets\living birds\demo\livingBirdsDemoScript.cs" />
     <Compile Include="Assets\kag\aves\comportamiento aves.cs" />
