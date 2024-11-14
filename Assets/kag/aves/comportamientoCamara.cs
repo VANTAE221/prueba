@@ -24,6 +24,10 @@ public class comportamientoCamara : MonoBehaviour
     public float textMoveSpeed = 50f; // Velocidad de movimiento del texto de puntaje
     public float fadeDuration = 1.5f; // Duración del desvanecimiento    
 
+    public GameObject camara; //gameobject de la camara
+    public GameObject control; //gameobject del control
+
+
 
     void Start()
     {
