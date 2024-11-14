@@ -59,7 +59,7 @@
     <UnityVersion>6000.0.26f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Analyzer Include="C:\Users\RYZEN\.vscode\extensions\visualstudiotoolsforunity.vstuc-1.0.3\Analyzers\Microsoft.Unity.Analyzers.dll" />
+    <Analyzer Include="C:\Users\RYZEN\.vscode\extensions\visualstudiotoolsforunity.vstuc-1.0.4\Analyzers\Microsoft.Unity.Analyzers.dll" />
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.26f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.SourceGenerators.dll" />
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.26f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.26f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
@@ -74,6 +74,7 @@
     <Compile Include="Assets\kag\aves\comportamientoCamara.cs" />
     <Compile Include="Assets\living birds\demo\livingBirdsDemoScript.cs" />
     <Compile Include="Assets\VRTemplateAssets\Scripts\BezierCurve.cs" />
+    <Compile Include="Assets\Scripts\Cronometro.cs" />
     <Compile Include="Assets\VRTemplateAssets\Scripts\LaunchProjectile.cs" />
     <Compile Include="Assets\living birds\scripts\lb_Bird.cs" />
     <Compile Include="Assets\EgyptMonsters\Scripts\DealDamageComponent.cs" />
